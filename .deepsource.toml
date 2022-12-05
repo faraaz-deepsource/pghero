@@ -1,9 +1,9 @@
 version = 1
 
 [[analyzers]]
-name = "docker"
+name = "ruby"
 enabled = true
 
-[[analyzers]]
-name = "ruby"
+[[transformers]]
+name = "rubocop"
 enabled = true
